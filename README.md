@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning All Things Javascript!
 - 👯 I’m looking to collaborate on a MERN stack reactive resume builder with modern templates!
 - 💬 Ask me about Videogames, World History, Mythology, and of course JavaScript!
-- 📫 How to reach me: [Portfolio](https://www.linkedin.com/in/shwetanshuacharya/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shwetanshuacharya/)
 
 
