@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a MOOC organised by University of Helsinki.
+- 🔭 I’m currently working on a React project for my client.
 - 🌱 I’m currently learning All Things Javascript!
 - 👯 I’m looking to collaborate on a MERN stack reactive resume builder with modern templates!
 - 💬 Ask me about Videogames, World History, Mythology, and of course JavaScript!
